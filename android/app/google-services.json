@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805124804072",
+    "project_id": "indagram-sumampong-sanch-b1799",
+    "storage_bucket": "indagram-sumampong-sanch-b1799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805124804072:android:2eed56ba01f188c963a85d",
+        "android_client_info": {
+          "package_name": "com.example.indagram_midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805124804072-795bturpojktmkuimh0muschdk3h4e67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfJ5ieDas8uUfKcEI17IMLju31wNZtgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805124804072-795bturpojktmkuimh0muschdk3h4e67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
